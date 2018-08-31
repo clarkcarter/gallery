@@ -1,20 +1,20 @@
 {
-  "Black and White": [
+  "work": [
     {
       "height": 2500,
-      "compressed_path": "./photos/Black and White/180830-4X5-01.min.jpg",
+      "compressed_path": "./photos/work/180830-4X5-01.min.jpg",
       "width": 2000,
       "compressed": false,
-      "placeholder_path": "./photos/Black and White/180830-4X5-01.placeholder.jpg",
-      "path": "./photos/Black and White/180830-4X5-01.jpg"
+      "placeholder_path": "./photos/work/180830-4X5-01.placeholder.jpg",
+      "path": "./photos/work/180830-4X5-01.jpg"
     },
     {
       "height": 2364,
-      "compressed_path": "./photos/Black and White/180126-4x5-01-E.min.jpg",
+      "compressed_path": "./photos/work/180126-4x5-01-E.min.jpg",
       "width": 2000,
       "compressed": false,
-      "placeholder_path": "./photos/Black and White/180126-4x5-01-E.placeholder.jpg",
-      "path": "./photos/Black and White/180126-4x5-01-E.jpg"
+      "placeholder_path": "./photos/work/180126-4x5-01-E.placeholder.jpg",
+      "path": "./photos/work/180126-4x5-01-E.jpg"
     }
   ]
 }
